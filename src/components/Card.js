@@ -3,8 +3,6 @@ import React from "react";
 import pinIcon from "../images/pin_icon.svg";
 
 export default function Card(props) {
-  console.log(props);
-
   return (
     <section className="card">
       <img
